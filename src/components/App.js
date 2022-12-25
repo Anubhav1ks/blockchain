@@ -6,7 +6,7 @@ import Marketplace from '../abis/Marketplace.json'
 import Navbar from './Navbar'
 import Main from './Main'
 import HashLoader from "react-spinners/HashLoader";
-
+//comment
 
 class App extends Component {
 
